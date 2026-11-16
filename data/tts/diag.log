@@ -1,0 +1,14 @@
+22:54:50 90013 speak gen=3 segs=2: ['妈妈去超市买水果。', '妈妈买了 2 个苹果，爸…']
+22:54:50 90037 ready seg=0 41ea3d4bc933254c_t100.wav 2.09s
+22:54:50 90038 play seg=0 2.09s
+22:54:50 90038 ready seg=1 9490afafebf4f2ba_t100.wav 6.32s
+22:54:52 92100 finished seg=0
+22:54:52 92102 play seg=1 6.32s
+22:54:52 92113 bright seg=1
+22:54:57 97986 speak gen=5 segs=2: ['下午吃点心。', '盘子里有 4 块饼干，弟…']
+22:54:58 98003 ready seg=0 ad2eca557cd814a6_t100.wav 1.67s
+22:54:58 98004 play seg=0 1.67s
+22:54:58 98004 ready seg=1 8a4d15258f824000_t100.wav 6.12s
+22:54:59 99681 finished seg=0
+22:54:59 99681 play seg=1 6.12s
+22:54:59 99693 bright seg=1
